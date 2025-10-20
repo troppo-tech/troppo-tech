@@ -1,0 +1,11 @@
+# local env files
+.env*.local
+
+# dependencies
+/node_modules
+
+# miscellaneous
+.htpasswd
+.idea
+.ssh
+.vagrant
